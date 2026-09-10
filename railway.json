@@ -1,0 +1,6 @@
+{
+  "deploy": {
+    "startCommand": "python3 src/collector_daemon.py",
+    "restartPolicyType": "ALWAYS"
+  }
+}

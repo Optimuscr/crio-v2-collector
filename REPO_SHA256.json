@@ -1,0 +1,179 @@
+{
+  "files": [
+    {
+      "path": ".gitignore",
+      "sha256": "6ca9fcdcece48591182e12f434dd60db1042b1aa31b027e8dc9397a1e57fb174",
+      "size": 63
+    },
+    {
+      "path": "Dockerfile",
+      "sha256": "89aacfc2a62738e22c7be50f2e9940261230c9c7caf9b280bc03dcd470e1c583",
+      "size": 155
+    },
+    {
+      "path": "MANIFEST_v0.3.0.json",
+      "sha256": "160b6e396736d488257955cf18015db541d1b468dfc0a6bb87db6e521a874e6d",
+      "size": 4073
+    },
+    {
+      "path": "README.md",
+      "sha256": "3ab7c0fe74f42cb38677b88a61714bd8288e19cc92fa0777ef4bc88713312012",
+      "size": 697
+    },
+    {
+      "path": "activate_after_tests.sh",
+      "sha256": "3b16f288b213b33c0f0f2f3e92644ab749a79d1e88b6cc22018c8e3d9a6a2533",
+      "size": 749
+    },
+    {
+      "path": "config/FROZEN_UNIVERSE.json",
+      "sha256": "fc306d4fac442d0b0d06937788492ef3292384fd8ce755c2c831a3e8ca893abd",
+      "size": 640
+    },
+    {
+      "path": "config/collector.json",
+      "sha256": "e26a0891d525dce1aae7c73c04fdac3578fa7fdbcb6c5947ad30c21eafe4540e",
+      "size": 1696
+    },
+    {
+      "path": "contracts/UNIFIED_DATA_CONTRACT.json",
+      "sha256": "689e8d6e1908a8d7c42f0416a00fe6ace3377a5695ef3ebeef635aa9b00ec22b",
+      "size": 1875
+    },
+    {
+      "path": "protocol/ACTIVATION_PROTOCOL.json",
+      "sha256": "56eceecc9cf48444b90adcf816aa6452272b77febf8ddec24cfda2a770037c7e",
+      "size": 1914
+    },
+    {
+      "path": "protocol/RAILWAY_DEPLOY_GUIDE_v0.3.md",
+      "sha256": "68b3e46b6cbf34e63054499f7c50fe51833e7b21a0213c881da0d3ba4cc9284a",
+      "size": 952
+    },
+    {
+      "path": "protocol/RAILWAY_DEPLOY_PLAN.json",
+      "sha256": "b66c899c34af9db0ec4668714b59667dceda892a73d664f6291d01310368c0e5",
+      "size": 551
+    },
+    {
+      "path": "protocol/WORK_AUDIT_ROLE.json",
+      "sha256": "440d15004c8fbfe8eacb53eeb3dac2c06d0f5bbe7abdd1ea9ce9afa5e007d984",
+      "size": 311
+    },
+    {
+      "path": "railway.json",
+      "sha256": "a910230a5f682857490eab9353147acb7ca546906c90c018a003bc93907eb471",
+      "size": 110
+    },
+    {
+      "path": "src/__pycache__/append_only_ledger.cpython-313.pyc",
+      "sha256": "c714be670acfca5f08f8bee2156b3856168ddc8538f2f0089ff891043972a287",
+      "size": 7778
+    },
+    {
+      "path": "src/__pycache__/binance_collector.cpython-313.pyc",
+      "sha256": "b877185242a11d472d7e1746c0cc7d3bd9cb9d277266217b8d689a6080a5a646",
+      "size": 9336
+    },
+    {
+      "path": "src/__pycache__/collector_daemon.cpython-313.pyc",
+      "sha256": "acbdff3c1ca82da50bfb84dd3d023a6c500a58468831421e474c8e3dde05732a",
+      "size": 2329
+    },
+    {
+      "path": "src/__pycache__/coverage_gate.cpython-313.pyc",
+      "sha256": "a872fb51b707ef9a1c9be32876e875883b36698d54773c134d9d4605394e11ee",
+      "size": 1976
+    },
+    {
+      "path": "src/__pycache__/health_monitor.cpython-313.pyc",
+      "sha256": "359a8020508850c7bd9cba43ecafd85ba38bd583db5beec7b4434b6dc1bd68d5",
+      "size": 4335
+    },
+    {
+      "path": "src/__pycache__/persistent_state_gate.cpython-313.pyc",
+      "sha256": "b87ed9b440db22635a83eb40bd8be01bfc4dd3152541a5cfaf9f61e05a46360f",
+      "size": 3412
+    },
+    {
+      "path": "src/__pycache__/physical_restart_test.cpython-313.pyc",
+      "sha256": "e0645607f898e3d08e0a0d48281314ed8ff69740e96523675b4e81e31babe343",
+      "size": 2996
+    },
+    {
+      "path": "src/append_only_ledger.py",
+      "sha256": "7582d2993d51dde6478ae5e19a3bf6c7d6186dcd2c0a94b659cfe798a17edc8f",
+      "size": 3742
+    },
+    {
+      "path": "src/binance_collector.py",
+      "sha256": "6323ffa506fba05282c6fb2f35d5dfda23a84a8a14d938eb414a4c4ea56a2d08",
+      "size": 3605
+    },
+    {
+      "path": "src/collector_daemon.py",
+      "sha256": "ebdc638a35eb8fbb9862ff93166f366cbedfcd4273ce83516273f97e7b912ca7",
+      "size": 811
+    },
+    {
+      "path": "src/coverage_gate.py",
+      "sha256": "85eeab8e86cba26a50bc7b01f7057999d8299dd71372783cd6bb792353cb8eeb",
+      "size": 713
+    },
+    {
+      "path": "src/health_monitor.py",
+      "sha256": "cf9d17af25a7ebc44e048e6c0e4d7ac2e23d6cea0623fd6770dcef542723fbd7",
+      "size": 1918
+    },
+    {
+      "path": "src/persistent_state_gate.py",
+      "sha256": "e1e96bb3090a52b032c32850cea14a99d86c906c180a998b9cc695bd1e25f392",
+      "size": 1813
+    },
+    {
+      "path": "src/physical_restart_test.py",
+      "sha256": "b7c7285486f99ff5fbb95a721d8b08ef46de2ea10b7a69a25ccf24904d1edf55",
+      "size": 1432
+    },
+    {
+      "path": "tests/PERSISTENCE_GATE_TEST_RESULT.json",
+      "sha256": "713c613d3820d54f3569806c828ebf409c6aa926beda53f0116d4c49b2b697b2",
+      "size": 1285
+    },
+    {
+      "path": "tests/STDLIB_TEST_RESULT.json",
+      "sha256": "dccf3ace7b7afc59a68d199579a819bca14e618edb41e93ce7139451b6f3a4c6",
+      "size": 1665
+    },
+    {
+      "path": "tests/TEST_RESULT.json",
+      "sha256": "8b01c6875a370f4d309c4f8fe64d7a3e0b6c5ff3e82333a26fe79ea49ab2d24e",
+      "size": 1084
+    },
+    {
+      "path": "tests/TEST_RESULT_v0.2.json",
+      "sha256": "bac3a3f6c5a4b23dd1d30e9ba3b92dd613f24642df6aaa8e66737c8f0cc2654f",
+      "size": 1160
+    },
+    {
+      "path": "tests/V03_BUILD_CHECK.json",
+      "sha256": "3971ed0a83e8c69f3bd0ebace14799323a3560cc63977ab9dfe917ead4e7515b",
+      "size": 6143
+    },
+    {
+      "path": "tests/run_tests.py",
+      "sha256": "cba51820c2bfdbf0c770beb5be8308cc06440c6fbf81e654ac5f946339c5f67c",
+      "size": 4018
+    },
+    {
+      "path": "tests/test_collector.py",
+      "sha256": "d82a9213ca316ae942f3d59635518f32a439f41828c2f807439ac47a9ae1293f",
+      "size": 1330
+    },
+    {
+      "path": "tests/test_durability.py",
+      "sha256": "19df17899f18dd933f72ceba15f562efaa39b1b6ee8ed4391de6c18dbafd0599",
+      "size": 1542
+    }
+  ]
+}
